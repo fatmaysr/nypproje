@@ -1,4 +1,5 @@
 XOX OYUNU
+
 Bu proje, C++ dili kullanılarak Nesne Yönelimli Programlama (OOP) prensiplerine uygun şekilde geliştirilmiş klasik bir Tic Tac Toe (XOX) oyunudur. Oyuncular sırayla X ve O sembollerini 3x3'lük bir tahtaya yerleştirerek oyunu kazanmaya çalışıyor. Oyun, İnsan vs İnsan ve İnsan vs Bilgisayar modlarını içerir. Bilgisayar rastgele hamleler yapar.
 
 Kullanılan Teknolojiler
